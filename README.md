@@ -21,8 +21,8 @@ and uniq to get the list that I want.
 
 | First product |
 -----------------
-| Given file, remove whitespace and print a line with all contiguous
-non-whitespace |
+| Given file, remove whitespace and print a line with all contiguous |
+| non-whitespace |
 
 
 
