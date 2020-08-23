@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Word feed utility.
 A utility to extract unique words from text files in order to make
 vocabulary lists.
@@ -26,3 +27,7 @@ non-whitespace |
 
 
 
+=======
+# wordfeed
+Utility for getting words from text files. 
+>>>>>>> 784dde2604252723e6870813a808c73dd6818937
