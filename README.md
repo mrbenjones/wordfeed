@@ -23,5 +23,18 @@ and uniq to get the list that I want.
 |-----------------|
 | Given file, remove whitespace and print a line with all contiguous non-whitespace |
 
+#### Baby Step: Read character buffer undifferentiated from stdin.
+
+You have a structure with the following items.
+
+* A FILE pointer representing the file to be read.  This is a well for
+  loading up the buffer.
+* A buffer containing at least some words, ending with whitespace, or
+  containing the end of the file.
+* An array of strings containing words.
+* A single flag indicating if the source is drained.
+
+
+
 
 
